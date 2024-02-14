@@ -38,7 +38,7 @@ body {
  .button-item {
     display: flex;
     flex-direction: row;
-    padding: 20px; 
+    padding: 70px; 
     border: 1px solid white;
  }
 
