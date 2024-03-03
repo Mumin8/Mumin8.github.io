@@ -4,6 +4,10 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bolder;
 }
+span{
+    color: blue;
+    font-size: 20px;
+}
 header h1{
     text-align: center;
 }
