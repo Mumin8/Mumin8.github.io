@@ -1,5 +1,5 @@
 body {
-    font-size: larger;
+    font-size: larger; 
     background-color: rgb(88, 90, 82);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bolder;
@@ -16,6 +16,8 @@ header h1{
 footer p{
 
     text-align: center;
+    font-size: medium;
+    margin-top: auto;
 }
 
 #about{
@@ -29,4 +31,21 @@ section{
 }
 h2 {
     color: blue;
+}
+#skill{
+    font-size: 24px;
+    padding-left: 20px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+img{
+    border-radius: 50%;
+}
+.profile-pic{
+    border: 0px solid rgb(76, 116, 76);
+    width: fit-content;
+    border-radius: 50%;
 }
